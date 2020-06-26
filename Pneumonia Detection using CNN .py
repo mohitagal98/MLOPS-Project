@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-# coding: utf-8
-# testing this code
-#Devansh Soni
+
 import os
 import pandas as pd
 import numpy as np
